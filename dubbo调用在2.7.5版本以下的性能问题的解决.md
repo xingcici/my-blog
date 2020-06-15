@@ -1,4 +1,4 @@
-代码dubbo调用在2.7.5版本以下checkAndUpdateSubConfigs导致的性能问题的解决
+dubbo调用在2.7.5版本以下checkAndUpdateSubConfigs导致的性能问题的解决
 
 一、背景
 
